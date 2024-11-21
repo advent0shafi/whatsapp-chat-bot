@@ -1,0 +1,17 @@
+# Ignore virtual environment directory
+env/
+
+# Ignore migration files (if you don't want them in version control)
+*/migrations/
+
+# Ignore local settings files (if applicable)
+local_settings.py
+
+# Ignore .env file (if you use one for environment variables)
+.env
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore .env file (if it's in the same directory)
+.env
